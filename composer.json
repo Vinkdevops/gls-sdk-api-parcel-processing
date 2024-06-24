@@ -1,5 +1,6 @@
 {
   "name": "glsgroup/sdk-api-parcel-processing",
+  "version": "1.1.0",
   "description": "GLS Web API for Parcel Processing SDK",
   "license": "MIT",
   "keywords": [
